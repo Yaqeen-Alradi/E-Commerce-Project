@@ -13,13 +13,6 @@ This project is a simple E-Commerce System implemented in Java with a Graphical 
 - Java Development Kit (JDK) installed on your system.
 - IDE (Integrated Development Environment) such as IntelliJ IDEA, Eclipse, or NetBeans.
 
-## Installation
-1. Clone the repository to your local machine:
-   ```
-   git clone https://github.com/Yaqeen-Alradi/E-Commerce-Project.git
-   ```
-2. Open the project in your preferred IDE.
-
 ## Usage
 1. Compile and run the Main.java file to start the application.
 2. Follow the instructions displayed in the GUI to interact with the system:
